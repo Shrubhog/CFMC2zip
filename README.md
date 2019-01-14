@@ -1,5 +1,5 @@
 # CFMC2zip
-A tool to bulk download Minecraft mods on [Curseforge](curseforge.com). I've come across situations where I want to download many mods but cannot concentrate them in a spot.
+A tool to bulk download Minecraft mods on [Minecraft Curseforge](minecraft.curseforge.com). I've come across situations where I want to download many mods but cannot concentrate them in a spot.
 ## What this aims to be
 * An easy way to add mods to a list and download them
 * A packager for mods
