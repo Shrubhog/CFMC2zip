@@ -5,6 +5,7 @@ A tool to bulk download Minecraft mods on [Minecraft Curseforge](minecraft.curse
 * A packager for mods
 * Web based, but a CLI might be developed later
 * (possible) A compatibility checker. (will check for known incompatibilities)
+* (very possible) A JS script to do the same thing, but for your own use in your website/JS project/anything JS related
 ## What it is not and WILL NOT be
 * A tool that automatically grants you permission to use the said mods in a modpack without asking their creator
 * A mod loader
